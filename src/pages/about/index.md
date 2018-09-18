@@ -2,7 +2,7 @@
 templateKey: about-page
 title: About our values33
 ---
-![](/img/10450237_10154636959130727_1830194364380521515_o.jpg)
+![null](/img/10450237_10154636959130727_1830194364380521515_o.jpg)
 
 ### Shade-grown coffee
 
